@@ -32,11 +32,6 @@
 - Cryptographic implementations for storing passwords as well as end to end encryption
 
 
-## Screenshots
-![Screenshot 1](./Screenshots/1.png)
-![Screenshot 2](./Screenshots/2.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
 
 ## Setup
 MongoDB server should be started at port 27017
@@ -51,10 +46,6 @@ After setup,
 ## Project Status
 Project is: _Complete_ 
 
-
-
-## Contact
-Created by [Shriram Pareek](https://github.com/Shrirampareek888), [Kishan Partani](https://github.com/KishanPartani), [Tejas Pradhan](https://github.com/tejaspradhan), [Aditya Pangaonkar](https://github.com/Adi306) and [Balaji Padamwar](https://github.com/balaji1608) - feel free to contact us!
 
 
 <!-- Optional -->
