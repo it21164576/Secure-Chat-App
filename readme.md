@@ -6,11 +6,8 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
-* [Contact](#contact)
 <!-- * [License](#license) -->
 
 
@@ -21,7 +18,7 @@
 
 
 ## Technologies Used
-- Node, Express
+- Node
 - HTML/CSS/Bootstrap
 - MongoDB
 - Socket.io
@@ -38,9 +35,6 @@ MongoDB server should be started at port 27017
 Initialize npm to download required files
 
 
-## Usage
-After setup,
-`node server.js` does the work.
 
 
 ## Project Status
